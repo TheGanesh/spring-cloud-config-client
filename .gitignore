@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+.mvn/
+mvnw
+mvnw.cmd
+spring-cloud-config-client.iml
+spring-cloud-config-server.iml
+spring-data-rest.iml
+src/main/resources/static/
+src/main/resources/templates/
+target/
